@@ -4,6 +4,8 @@ This is an Example for send Events of Cloud One Workload Security with Webhook l
 
 This example is build for Slack
 
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Architecture"
+
 # Requirements:
 
 > SNS Topic and Integrated with [Cloud One Workload Security](https://cloudone.trendmicro.com/docs/workload-security/event-sns/)
