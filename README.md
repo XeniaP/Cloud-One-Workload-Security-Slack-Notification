@@ -4,7 +4,7 @@ This is an Example for send Events of Cloud One Workload Security with Webhook l
 
 This example is build for Slack
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Architecture"
+![Architecture](docs/Architecture.png)
 
 # Requirements:
 
