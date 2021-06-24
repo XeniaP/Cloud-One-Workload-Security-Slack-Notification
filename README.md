@@ -10,6 +10,8 @@ This example is build for Slack
 
 > [AWS account integrated in Workload Security](https://cloudone.trendmicro.com/docs/workload-security/aws-add/)
 
+> [Incomming Webhook in Slack](https://api.slack.com/messaging/webhooks)
+
 ## TO-DO
 
 - [x] Lambda with Events
